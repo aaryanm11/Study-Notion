@@ -7,7 +7,7 @@ This is a secure online learning platform that allows students to enroll in cour
 ## Watch the Demo Video
 
 <div style="padding:53.13% 0 0 0;position:relative;">
-  <iframe src="https://player.vimeo.com/video/1063066462?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video"></iframe>
+  <iframe src="https://player.vimeo.com/video/1063066462?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay=1; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video"></iframe>
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
