@@ -2,6 +2,17 @@
                                                      
 This is a secure online learning platform that allows students to enroll in courses, track their progress, and make seamless payments. It also includes a dashboard for instructors to manage courses, view student engagement, and track earnings. The platform uses JWT authentication for secure user login and integrates Razorpay for payment processing.
 
+# Welcome to My Project
+
+## Watch the Demo Video
+
+<div style="padding:53.13% 0 0 0;position:relative;">
+  <iframe src="https://player.vimeo.com/video/1063066462?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="video"></iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+
+
         Features-
         
 Student Enrollment: Allows students to browse and enroll in courses.
