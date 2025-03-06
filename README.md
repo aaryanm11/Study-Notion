@@ -12,8 +12,6 @@ This is a secure online learning platform that allows students to enroll in cour
         style="position:absolute;top:0;left:0;width:100%;height:100%;" 
         title="video">
 </iframe>
-<script src="https://player.vimeo.com/api/player.js"></script>
-
 
 
 
